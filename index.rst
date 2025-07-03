@@ -3,7 +3,7 @@ How to Set Up Disney+ on Your Devices | Disneyplus Com Begin
 ##################
 
 .. meta::
-   
+ :msvalidate.01: 4273926AD5DEB558474C12840F8BBE9C
 
 .. image:: blank.png
       :width: 350px
